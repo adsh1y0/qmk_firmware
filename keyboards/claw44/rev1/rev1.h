@@ -52,4 +52,5 @@ enum layer_number {
   _LOWER,
   _RAISE,
   _ADJUST,
+  _MOVE,
 };
